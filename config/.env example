@@ -1,0 +1,16 @@
+Node = "Development"
+
+# config server
+PORT = {PORT}
+DOMAIN = {DOMAIN}
+
+# config database *MongoDb*
+DB_URL = {DB_URL}
+
+# config client
+CLIENT_URL = {CLIENT_URL}
+
+# config jwt
+JWT_SECRET = {SECRET}
+JWT_EXPIRE = {EXPIRE}
+
